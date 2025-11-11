@@ -59,7 +59,7 @@ Follow these steps to download and run the game locally on your machine:
 
 Connect with me and check out my other projects!
 
-* **Abhijeet** - [GitHub Profile](https://github.com/Abhijeet07012002)
+* **Abhijeet** - [GitHub Profile](https://github.com/Abhijeet01012002)
 * **Abhijeet** - [Linkdin Profile](https://www.linkedin.com/in/abhijeet-bhagat-4912b2382)
 * **Abhijeet** - [Abhijeet.akj@gmail.com](abhijeet.akj@gmail.com)
 * **Abhijeet** - [Instagram Profile](https://www.instagram.com/abhijeet.official.30/)
